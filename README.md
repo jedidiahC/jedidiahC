@@ -2,7 +2,7 @@
 
 > 💬 Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/jedidiah-cheng-b1b72095/) or email me at chengjedidiah@gmail.com!
 
-- 👉 Check out my website at www.jedidiahcheng.com
+- 👉 Learn more about me at www.jedidiahcheng.com
 - 📥 Play some of my game jam entries at https://yed.itch.io/
 
 https://github.com/user-attachments/assets/ecc556c2-6161-43e2-a30e-cea8f31d55e9
