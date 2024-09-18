@@ -2,7 +2,8 @@
 
 > 💬 Feel free to reach out! I love meeting other developers!
 
-www.jedidiahcheng.com
+- 👉 Check out my website at www.jedidiahcheng.com
+- 📥 Play some of my game jam entries at https://yed.itch.io/
 
 https://github.com/user-attachments/assets/ecc556c2-6161-43e2-a30e-cea8f31d55e9
 
