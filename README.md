@@ -1,5 +1,7 @@
 **Jedidiah** Cheng 
 
+<video src="https://github.com/user-attachments/assets/bd239b09-eb60-4e19-94f3-5a24406e807c" loop/>
+
 > 💬 Feel free to reach out! I love meeting other developers!
 
 **Fields of Interest**
