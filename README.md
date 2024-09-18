@@ -1,4 +1,11 @@
-## Hi there 👋
+**Jedidiah** Cheng 
+
+> 💬 Feel free to reach out! I love meeting other developers!
+
+**Fields of Interest**
+> 📤 Game Development
+
+> 💎 Computer Graphics
 
 <!--
 **jedidiahC/jedidiahC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
