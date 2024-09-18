@@ -2,12 +2,9 @@
 
 > 💬 Feel free to reach out! I love meeting other developers!
 
-**Fields of Interest**
-> 📤 Game Development
+www.jedidiahcheng.com
 
-> 💎 Computer Graphics
-
-<video src="https://github.com/user-attachments/assets/bd239b09-eb60-4e19-94f3-5a24406e807c" loop/>
+https://github.com/user-attachments/assets/ecc556c2-6161-43e2-a30e-cea8f31d55e9
 
 <!--
 **jedidiahC/jedidiahC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
