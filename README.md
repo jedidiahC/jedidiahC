@@ -1,6 +1,6 @@
 **Jedidiah** Cheng 
 
-> 💬 Feel free to reach out on LinkedIn or @chengjedidiah@gmail.com! I love meeting other developers!
+> 💬 Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/jedidiah-cheng-b1b72095/) or email me at chengjedidiah@gmail.com! I love meeting other developers!
 
 - 👉 Check out my website at www.jedidiahcheng.com
 - 📥 Play some of my game jam entries at https://yed.itch.io/
