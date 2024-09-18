@@ -1,13 +1,13 @@
 **Jedidiah** Cheng 
 
-<video src="https://github.com/user-attachments/assets/bd239b09-eb60-4e19-94f3-5a24406e807c" loop/>
-
 > 💬 Feel free to reach out! I love meeting other developers!
 
 **Fields of Interest**
 > 📤 Game Development
 
 > 💎 Computer Graphics
+
+<video src="https://github.com/user-attachments/assets/bd239b09-eb60-4e19-94f3-5a24406e807c" loop/>
 
 <!--
 **jedidiahC/jedidiahC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
